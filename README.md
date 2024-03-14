@@ -33,9 +33,9 @@ The goal of this project is to perform a full unsupervised learning machine lear
 
 - **Data Quality**: Handling missing or incorrect data was a challenge during the data cleaning process. In the future, implementing more robust data cleaning techniques could improve data quality.
   
-- **Model Interpretability**: Interpreting the results of clustering analysis and translating them into actionable insights for business decisions can be challenging. Further exploration of clustering techniques and visualization methods could enhance model interpretability.
+- **Model Interpretability**: Interpreting the results of clustering analysis and translating them into actionable insights for business decisions was challenging. Further exploration of clustering techniques and visualization methods could enhance model interpretability.
 
 - **Personalization**: Incorporating additional customer information such as demographics or purchase history could enhance the segmentation analysis and enable personalized marketing strategies in the future.
 
-Overall, the project provides valuable insights into customer segmentation and purchasing behavior, laying the groundwork for further analysis and decision-making in marketing and business strategy.
+Overall, this project provides valuable insights into customer segmentation and purchasing behavior of the wholesale dataset, laying the groundwork for further analysis and decision-making in marketing and business strategy.
 
